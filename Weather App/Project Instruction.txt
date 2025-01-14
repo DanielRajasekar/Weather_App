@@ -1,0 +1,6 @@
+This Weather App shows the place, temperature, and climate.
+
+Type the place in the search field and press enter e.g.(Chennai, Bangalore, etc..).
+
+
+
